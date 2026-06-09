@@ -3,7 +3,7 @@ import time
 
 URL = "https://www.booking.com/hotel/it/primaverammare.it.html"
 
-BOT_TOKEN = https://api.telegram.org/bot8998464103:AAESkI9kP3w-PKwVD9vaEqjNJ_014PQRksM/sendMessage?chat_id=7985695301&text=Test%20OK
+BOT_TOKEN = 8998464103:AAESkI9kP3w-PKwVD9vaEqjNJ_014PQRksM/sendMessage?chat_id=7985695301&text=Test%20OK
 CHAT_ID = "7985695301"
 
 last_state = None
